@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VoiceChanger</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="timer">00:00</string>
+    <string name="normal">ノーマル</string>
+
+</resources>

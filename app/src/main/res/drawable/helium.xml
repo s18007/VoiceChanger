@@ -1,0 +1,20 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:shape="oval">
+        <shape  android:shape="oval">
+            <gradient
+                android:startColor="#FF09F3DF"
+                android:endColor="#FF09F3DF"
+                android:angle="270">
+            </gradient>
+            <size android:width="180sp" android:height="180sp"/>
+        </shape>
+    </item>
+
+    <item
+        android:drawable="@drawable/helium_image"
+        android:bottom="30sp"
+        android:top="30sp"
+        android:left="30sp"
+        android:right="30sp">
+    </item>
+</layer-list>
